@@ -52,7 +52,7 @@
         </plugins>
         <resources>
         <resource>
-            <directory>build</directory>
+            <directory>dist/web</directory>
             <includes>
                 <include>*/**</include>
             </includes>
